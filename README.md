@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- BTW I use <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/archlinux.svg" />
+- BTW I use <img height="24" width="24" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/distributor-logo-archlinux-icon.png" />
 
 <!--
 **vggscqq/vggscqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
