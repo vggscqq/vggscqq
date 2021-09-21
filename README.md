@@ -10,8 +10,8 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=vggscqq alt=vggscqq /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=vggscqq&show_icons=true&include_all_commits=true)](https://github.com/vggscqq/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vggscqq&layout=compact)](https://github.com/vggscqq/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=vggscqq&show_icons=true&include_all_commits=true&theme=github_dark)](https://github.com/vggscqq/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vggscqq&layout=compact&theme=github_dark)](https://github.com/vggscqq/github-readme-stats)
 
 
   ![Python](https://img.shields.io/badge/Python-darkgreen.svg?style=flat-square&logo=python&logoColor=white)
