@@ -4,7 +4,7 @@
 ## Hi <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22px"> About me
 
 
-- :mortar_board: I study _CS_ in a world of freedom
+- :mortar_board: I study _software engineerïng_ at [FIT v Brně](https://www.fit.vut.cz/.en)
 - :purple_heart: Stack: Python, C++/C#, Linux, Networks
 
 ## Some of my Github Stats
