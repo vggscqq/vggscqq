@@ -3,13 +3,12 @@
 
 ## Hi <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22px"> About me
 
-- :purple_heart: Stack: Python, C++/C#, Linux, Networks
+- Stack: Linux, Networks
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=vggscqq&style=flat-square alt=vggscqq /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=vggscqq&show_icons=true&include_all_commits=true&theme=github_dark)](https://github.com/vggscqq/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vggscqq&layout=compact&theme=github_dark)](https://github.com/vggscqq/github-readme-stats)
 
   ![HackTheBox](https://img.shields.io/badge/Hack%20The%20Box-9FEF00.svg?style=flat-square&logo=HackTheBox&logoColor=white)
   ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
