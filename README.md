@@ -1,10 +1,6 @@
 ## :computer: vggscqq 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/vimnative)](https://t.me/nmcli) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:vggscqq@gmail.com)](mailto:vggscqq@gmail.com)
 
-## Hi <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22px"> About me
-
-- Stack: Linux, Networks
-
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=vggscqq&style=flat-square alt=vggscqq /> </p>
 
